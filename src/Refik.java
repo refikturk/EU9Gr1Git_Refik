@@ -4,6 +4,7 @@ public class Refik {
 
         System.out.println("First change from Refik");
         System.out.println("Second change from Refik");
+        System.out.println("Third committing");
 
     }
 }
